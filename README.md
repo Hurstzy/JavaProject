@@ -1,1 +1,2 @@
-"#JavaProject\n#Projects completed while learning Java." 
+# JavaProject
+# Projects completed while learning Java
